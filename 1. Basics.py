@@ -1,9 +1,9 @@
 #print is used for display the output in our program  
 print("Hello World!")
 #Bio - Data 
-print("Name: Nandhan")
-print("Branch: CSE-Ai&Ml")
-print("Place: Kamareddy")
+print("Name:KKAHMED")
+print("Branch: CSE-CS")
+print("Place: SIDDIPET")
 print("College: MRCET")
 #Bio-Data Using input and output statements 
 Name = input("Enter your name: ")
@@ -15,4 +15,5 @@ print("Name: ",Name)
 print("Age: ",Age)
 print("Branch: ",Branch)
 print("Place: ",Place)
+
 print("College: ",College)
